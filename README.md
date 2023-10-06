@@ -12,7 +12,7 @@
   <img align="center" alt="Maven" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg">
 </div>
 
-# 💻 Calculadora usando Gherkin e Cucumber
+# 💻 Pesquisa de Livros usando Gherkin e Cucumber
 
 <p> Exemplo de uma pesquisa de livros usando Gherkin e Cucumber. Nsse exemplo utiliza-se Esquema de Cenário/Scenario Outline</p>
 
