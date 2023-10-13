@@ -36,16 +36,16 @@
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Java](https://www.oracle.com/br/java/technologies/downloads/), [Apache Netbeans] (https://netbeans.apache.org/) 
-> [!NOTE] Esse projeto usa Maven, para isso siga as orientações a seguir:
-  	> Adicionar as dependências (cucumber-junit,cucumber-java) no arquivo pom.xml do projeto. Consulte a dependência em https://mvnrepository.com/  
-	> A organização do projeto segue a seguinte estrutura:
-	        - Projeto
-	            - Source Packages(src)
-	               - Classes .java para entidades e lógica do projeto
-	            - Teste Packages(test)
-	   		- Classes .java para os testes
-	            - Other Test Sources(resources)
-	               - arquivo.feature
+[!NOTE] Esse projeto usa Maven, para isso siga as orientações a seguir:
+  	- Adicionar as dependências (cucumber-junit,cucumber-java) no arquivo pom.xml do projeto. Consulte a dependência em https://mvnrepository.com/  
+	- A organização do projeto segue a seguinte estrutura:
+	  - Projeto
+	    - Source Packages(src)
+	      - Classes .java para entidades e lógica do projeto
+	    - Teste Packages(test)
+	      - Classes .java para os testes
+	    - Other Test Sources(resources)
+	      - arquivo.feature
               Obs: caso esses pacotes não apareçam ao criar o projeto, é necessário adicioná-los manualmente.  
 
 ### 🛠 Tecnologias
